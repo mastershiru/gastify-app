@@ -1,0 +1,9 @@
+
+backend/venv/
+
+# Python virtual environments
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc

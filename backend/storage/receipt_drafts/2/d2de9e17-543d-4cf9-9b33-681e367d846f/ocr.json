@@ -1,0 +1,394 @@
+{
+  "draft_id": "d2de9e17-543d-4cf9-9b33-681e367d846f",
+  "user_id": 2,
+  "original_filename": "receipt.jpg",
+  "content_type": "image/jpeg",
+  "image_filename": "source.jpg",
+  "ocr_result": {
+    "provider": "paddleocr",
+    "text": "user id_1, exper\nCataprylide\nexpenses.source\nFula\na_et best, recelpte\nPAFKEND ECEN SCHEW\n(e)\nQe.cont\nMetrobank\nBarnches\nDATE\nTIME\nLOCATION\n24-SEP-26\n11:50:38\n06850270\nATM_TRINITY_UNI\nCARD NUMBER\nAMOUNT\n六0603\n500.00\nFROM\nTRANSACTION\n☆食官食☆台☆☆☆☆\nCASH WITHDRAWAL\nAVAILABLE BALANCE\nTOTAL BALANCE\n28,761.98\n28,761.98\nTRACE\nNO:132840\nEMV\nA0000000041010\nAPPLICATION ID:\nDEBIT MASTERCARD\nAPPLICATION LABEL:\nDEL\nTHIS SLIP IS YOUR TRANSACTION RECORD.",
+    "average_confidence": 0.9224212263759813,
+    "lines": [
+      {
+        "text": "user id_1, exper",
+        "confidence": 0.9689489603042603,
+        "box": [
+          1,
+          0,
+          325,
+          62
+        ]
+      },
+      {
+        "text": "Cataprylide",
+        "confidence": 0.7325254082679749,
+        "box": [
+          576,
+          0,
+          857,
+          71
+        ]
+      },
+      {
+        "text": "expenses.source",
+        "confidence": 0.9543350338935852,
+        "box": [
+          8,
+          50,
+          333,
+          120
+        ]
+      },
+      {
+        "text": "Fula",
+        "confidence": 0.5244327187538147,
+        "box": [
+          567,
+          99,
+          964,
+          183
+        ]
+      },
+      {
+        "text": "a_et best, recelpte",
+        "confidence": 0.8977100849151611,
+        "box": [
+          0,
+          199,
+          400,
+          299
+        ]
+      },
+      {
+        "text": "PAFKEND ECEN SCHEW",
+        "confidence": 0.6504601836204529,
+        "box": [
+          626,
+          267,
+          1113,
+          343
+        ]
+      },
+      {
+        "text": "(e)",
+        "confidence": 0.7454352974891663,
+        "box": [
+          0,
+          326,
+          109,
+          413
+        ]
+      },
+      {
+        "text": "Qe.cont",
+        "confidence": 0.594338059425354,
+        "box": [
+          532,
+          349,
+          702,
+          398
+        ]
+      },
+      {
+        "text": "Metrobank",
+        "confidence": 0.9999898076057434,
+        "box": [
+          1171,
+          1190,
+          2195,
+          1352
+        ]
+      },
+      {
+        "text": "Barnches",
+        "confidence": 0.7472114562988281,
+        "box": [
+          1430,
+          1353,
+          1790,
+          1444
+        ]
+      },
+      {
+        "text": "DATE",
+        "confidence": 0.999974250793457,
+        "box": [
+          400,
+          1424,
+          645,
+          1519
+        ]
+      },
+      {
+        "text": "TIME",
+        "confidence": 0.9999918937683105,
+        "box": [
+          1081,
+          1423,
+          1319,
+          1522
+        ]
+      },
+      {
+        "text": "LOCATION",
+        "confidence": 0.9999583959579468,
+        "box": [
+          1637,
+          1418,
+          2094,
+          1521
+        ]
+      },
+      {
+        "text": "24-SEP-26",
+        "confidence": 0.9708958864212036,
+        "box": [
+          410,
+          1521,
+          925,
+          1611
+        ]
+      },
+      {
+        "text": "11:50:38",
+        "confidence": 0.9997931122779846,
+        "box": [
+          1034,
+          1520,
+          1486,
+          1612
+        ]
+      },
+      {
+        "text": "06850270",
+        "confidence": 0.9999958872795105,
+        "box": [
+          1644,
+          1518,
+          2091,
+          1609
+        ]
+      },
+      {
+        "text": "ATM_TRINITY_UNI",
+        "confidence": 0.9976020455360413,
+        "box": [
+          402,
+          1609,
+          1262,
+          1710
+        ]
+      },
+      {
+        "text": "CARD NUMBER",
+        "confidence": 0.9998059868812561,
+        "box": [
+          404,
+          1795,
+          1043,
+          1890
+        ]
+      },
+      {
+        "text": "AMOUNT",
+        "confidence": 0.9999938011169434,
+        "box": [
+          1639,
+          1794,
+          1978,
+          1889
+        ]
+      },
+      {
+        "text": "六0603",
+        "confidence": 0.908109188079834,
+        "box": [
+          400,
+          1865,
+          1320,
+          1989
+        ]
+      },
+      {
+        "text": "500.00",
+        "confidence": 0.9999828934669495,
+        "box": [
+          1970,
+          1885,
+          2301,
+          1977
+        ]
+      },
+      {
+        "text": "FROM",
+        "confidence": 0.9999760389328003,
+        "box": [
+          1639,
+          2067,
+          1872,
+          2158
+        ]
+      },
+      {
+        "text": "TRANSACTION",
+        "confidence": 0.9999884963035583,
+        "box": [
+          410,
+          2075,
+          1041,
+          2170
+        ]
+      },
+      {
+        "text": "☆食官食☆台☆☆☆☆",
+        "confidence": 0.43540239334106445,
+        "box": [
+          1642,
+          2152,
+          2286,
+          2215
+        ]
+      },
+      {
+        "text": "CASH WITHDRAWAL",
+        "confidence": 0.9994126558303833,
+        "box": [
+          400,
+          2160,
+          1256,
+          2272
+        ]
+      },
+      {
+        "text": "AVAILABLE BALANCE",
+        "confidence": 0.9998710751533508,
+        "box": [
+          1640,
+          2323,
+          2587,
+          2421
+        ]
+      },
+      {
+        "text": "TOTAL BALANCE",
+        "confidence": 0.9998268485069275,
+        "box": [
+          411,
+          2338,
+          1150,
+          2452
+        ]
+      },
+      {
+        "text": "28,761.98",
+        "confidence": 0.9641672968864441,
+        "box": [
+          1703,
+          2417,
+          2214,
+          2514
+        ]
+      },
+      {
+        "text": "28,761.98",
+        "confidence": 0.999366044998169,
+        "box": [
+          688,
+          2433,
+          1208,
+          2540
+        ]
+      },
+      {
+        "text": "TRACE",
+        "confidence": 0.9999885559082031,
+        "box": [
+          400,
+          2634,
+          698,
+          2732
+        ]
+      },
+      {
+        "text": "NO:132840",
+        "confidence": 0.9995623826980591,
+        "box": [
+          728,
+          2620,
+          1318,
+          2729
+        ]
+      },
+      {
+        "text": "EMV",
+        "confidence": 0.9999716877937317,
+        "box": [
+          395,
+          2823,
+          584,
+          2927
+        ]
+      },
+      {
+        "text": "A0000000041010",
+        "confidence": 0.9996121525764465,
+        "box": [
+          1364,
+          2898,
+          2191,
+          3007
+        ]
+      },
+      {
+        "text": "APPLICATION ID:",
+        "confidence": 0.9999593496322632,
+        "box": [
+          398,
+          2912,
+          1401,
+          3025
+        ]
+      },
+      {
+        "text": "DEBIT MASTERCARD",
+        "confidence": 0.9999712705612183,
+        "box": [
+          1538,
+          2987,
+          2489,
+          3109
+        ]
+      },
+      {
+        "text": "APPLICATION LABEL:",
+        "confidence": 0.9999595284461975,
+        "box": [
+          391,
+          3014,
+          1435,
+          3120
+        ]
+      },
+      {
+        "text": "DEL",
+        "confidence": 0.9634993672370911,
+        "box": [
+          2829,
+          3235,
+          2936,
+          3293
+        ]
+      },
+      {
+        "text": "THIS SLIP IS YOUR TRANSACTION RECORD.",
+        "confidence": 0.9999811053276062,
+        "box": [
+          560,
+          3290,
+          2734,
+          3427
+        ]
+      }
+    ]
+  }
+}

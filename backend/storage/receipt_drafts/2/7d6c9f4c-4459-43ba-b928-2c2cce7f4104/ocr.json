@@ -1,0 +1,574 @@
+{
+  "draft_id": "7d6c9f4c-4459-43ba-b928-2c2cce7f4104",
+  "user_id": 2,
+  "original_filename": "receipt.jpg",
+  "content_type": "image/jpeg",
+  "image_filename": "source.jpg",
+  "ocr_result": {
+    "provider": "paddleocr",
+    "text": "PETRON\nMJT Fuel Servicenter\nDealer. Marmichael J. Tena\n121 G Araneta Ave Cor E\nRodriquez Tatalon Quezon Oty\nVAT REG TIN: 134-005-028-000\nPOS S/N:PC1X39RK/MIN:21062517472959617\nSALES INVOICE\nDate: 09/22/2026\nTime: 12:14:33\nS.I.# 0001690677\nName:\nTIN:\nAddress:\nBusinass Style:\nDesaiption\nQty.\nPrice\nAmount\n*Xtra Advance\n(V)\n(P : 03)\n1.17\nPhp85.50\nPhp100.00\nDiscount\namount w/o VA\nPhp-0.00\nTotal (inel. VAT)\nPhp100.00\nZero Rated Sale\nPhp0.00\nVAT Exempt Sale\nPhp0.00\nVATable Sales\nPhp89.29\nVAT Amount\nPhp10.71\nPayment:\nCash Tendered\nPhp1,000.00\nChange\nPhp900.00\nCashier: Joza Lorena\nSMARTPETRO INC.\n4/F CAEG Building Dela Rosa Street\nBrgy. Pio Del Pilar, Makati City\nVAT REG TIN: 007-845-312-00000\nAoorod. No.: 0480078453122017070768\nDate Issued: 08/10/2017\nP.T.U. No.: FP062021-039-0294318-00000\nDate Issued: 07/02/2021\nWhatsupinPetran?SCANCR for\nfeedback, upcates, pramos & more.\nYoumay also call us at #738766\nor text us at 0919-160-7111",
+    "average_confidence": 0.9838165757911546,
+    "lines": [
+      {
+        "text": "PETRON",
+        "confidence": 0.9998391270637512,
+        "box": [
+          667,
+          256,
+          1392,
+          416
+        ]
+      },
+      {
+        "text": "MJT Fuel Servicenter",
+        "confidence": 0.9989181756973267,
+        "box": [
+          774,
+          408,
+          1256,
+          470
+        ]
+      },
+      {
+        "text": "Dealer. Marmichael J. Tena",
+        "confidence": 0.9608832001686096,
+        "box": [
+          702,
+          465,
+          1327,
+          530
+        ]
+      },
+      {
+        "text": "121 G Araneta Ave Cor E",
+        "confidence": 0.9984109401702881,
+        "box": [
+          742,
+          524,
+          1294,
+          588
+        ]
+      },
+      {
+        "text": "Rodriquez Tatalon Quezon Oty",
+        "confidence": 0.9744548201560974,
+        "box": [
+          660,
+          588,
+          1364,
+          661
+        ]
+      },
+      {
+        "text": "VAT REG TIN: 134-005-028-000",
+        "confidence": 0.9981206059455872,
+        "box": [
+          651,
+          660,
+          1372,
+          722
+        ]
+      },
+      {
+        "text": "POS S/N:PC1X39RK/MIN:21062517472959617",
+        "confidence": 0.9982668161392212,
+        "box": [
+          472,
+          758,
+          1547,
+          824
+        ]
+      },
+      {
+        "text": "SALES INVOICE",
+        "confidence": 0.9884212017059326,
+        "box": [
+          702,
+          811,
+          1317,
+          881
+        ]
+      },
+      {
+        "text": "Date: 09/22/2026",
+        "confidence": 0.9869438409805298,
+        "box": [
+          149,
+          874,
+          622,
+          932
+        ]
+      },
+      {
+        "text": "Time: 12:14:33",
+        "confidence": 0.9957414269447327,
+        "box": [
+          1184,
+          897,
+          1588,
+          945
+        ]
+      },
+      {
+        "text": "S.I.# 0001690677",
+        "confidence": 0.9747875332832336,
+        "box": [
+          154,
+          934,
+          622,
+          988
+        ]
+      },
+      {
+        "text": "Name:",
+        "confidence": 0.9359852075576782,
+        "box": [
+          156,
+          1019,
+          308,
+          1066
+        ]
+      },
+      {
+        "text": "TIN:",
+        "confidence": 0.9997984766960144,
+        "box": [
+          158,
+          1085,
+          280,
+          1136
+        ]
+      },
+      {
+        "text": "Address:",
+        "confidence": 0.9998666048049927,
+        "box": [
+          158,
+          1137,
+          396,
+          1189
+        ]
+      },
+      {
+        "text": "Businass Style:",
+        "confidence": 0.9961839914321899,
+        "box": [
+          157,
+          1203,
+          597,
+          1264
+        ]
+      },
+      {
+        "text": "Desaiption",
+        "confidence": 0.9958305358886719,
+        "box": [
+          151,
+          1320,
+          493,
+          1396
+        ]
+      },
+      {
+        "text": "Qty.",
+        "confidence": 0.999806821346283,
+        "box": [
+          645,
+          1327,
+          781,
+          1408
+        ]
+      },
+      {
+        "text": "Price",
+        "confidence": 0.9999658465385437,
+        "box": [
+          869,
+          1329,
+          1016,
+          1396
+        ]
+      },
+      {
+        "text": "Amount",
+        "confidence": 0.9999761581420898,
+        "box": [
+          1089,
+          1337,
+          1323,
+          1397
+        ]
+      },
+      {
+        "text": "*Xtra Advance",
+        "confidence": 0.9998881220817566,
+        "box": [
+          154,
+          1422,
+          614,
+          1486
+        ]
+      },
+      {
+        "text": "(V)",
+        "confidence": 0.8152942061424255,
+        "box": [
+          1303,
+          1426,
+          1392,
+          1494
+        ]
+      },
+      {
+        "text": "(P : 03)",
+        "confidence": 0.9195392727851868,
+        "box": [
+          164,
+          1483,
+          431,
+          1553
+        ]
+      },
+      {
+        "text": "1.17",
+        "confidence": 0.999993622303009,
+        "box": [
+          727,
+          1490,
+          873,
+          1551
+        ]
+      },
+      {
+        "text": "Php85.50",
+        "confidence": 0.9960474967956543,
+        "box": [
+          967,
+          1495,
+          1246,
+          1558
+        ]
+      },
+      {
+        "text": "Php100.00",
+        "confidence": 0.9998223781585693,
+        "box": [
+          1287,
+          1491,
+          1600,
+          1561
+        ]
+      },
+      {
+        "text": "Discount",
+        "confidence": 0.9999827146530151,
+        "box": [
+          155,
+          1556,
+          442,
+          1611
+        ]
+      },
+      {
+        "text": "amount w/o VA",
+        "confidence": 0.9992693662643433,
+        "box": [
+          460,
+          1556,
+          927,
+          1621
+        ]
+      },
+      {
+        "text": "Php-0.00",
+        "confidence": 0.9998739957809448,
+        "box": [
+          1288,
+          1559,
+          1567,
+          1625
+        ]
+      },
+      {
+        "text": "Total (inel. VAT)",
+        "confidence": 0.969356894493103,
+        "box": [
+          150,
+          1664,
+          737,
+          1732
+        ]
+      },
+      {
+        "text": "Php100.00",
+        "confidence": 0.9998562932014465,
+        "box": [
+          1287,
+          1670,
+          1592,
+          1730
+        ]
+      },
+      {
+        "text": "Zero Rated Sale",
+        "confidence": 0.9996654987335205,
+        "box": [
+          154,
+          1727,
+          683,
+          1783
+        ]
+      },
+      {
+        "text": "Php0.00",
+        "confidence": 0.9916557669639587,
+        "box": [
+          1285,
+          1723,
+          1527,
+          1782
+        ]
+      },
+      {
+        "text": "VAT Exempt Sale",
+        "confidence": 0.9995697140693665,
+        "box": [
+          156,
+          1784,
+          683,
+          1839
+        ]
+      },
+      {
+        "text": "Php0.00",
+        "confidence": 0.9980496764183044,
+        "box": [
+          1283,
+          1777,
+          1526,
+          1843
+        ]
+      },
+      {
+        "text": "VATable Sales",
+        "confidence": 0.9998000264167786,
+        "box": [
+          156,
+          1838,
+          611,
+          1895
+        ]
+      },
+      {
+        "text": "Php89.29",
+        "confidence": 0.9990434050559998,
+        "box": [
+          1286,
+          1843,
+          1558,
+          1900
+        ]
+      },
+      {
+        "text": "VAT Amount",
+        "confidence": 0.9997967481613159,
+        "box": [
+          158,
+          1899,
+          513,
+          1957
+        ]
+      },
+      {
+        "text": "Php10.71",
+        "confidence": 0.998634397983551,
+        "box": [
+          1284,
+          1892,
+          1558,
+          1958
+        ]
+      },
+      {
+        "text": "Payment:",
+        "confidence": 0.9999529719352722,
+        "box": [
+          197,
+          1986,
+          434,
+          2045
+        ]
+      },
+      {
+        "text": "Cash Tendered",
+        "confidence": 0.9658409953117371,
+        "box": [
+          519,
+          1995,
+          896,
+          2045
+        ]
+      },
+      {
+        "text": "Php1,000.00",
+        "confidence": 0.9935483336448669,
+        "box": [
+          1288,
+          1992,
+          1601,
+          2046
+        ]
+      },
+      {
+        "text": "Change",
+        "confidence": 0.9999442100524902,
+        "box": [
+          875,
+          2056,
+          1055,
+          2109
+        ]
+      },
+      {
+        "text": "Php900.00",
+        "confidence": 0.997538685798645,
+        "box": [
+          1281,
+          2052,
+          1539,
+          2108
+        ]
+      },
+      {
+        "text": "Cashier: Joza Lorena",
+        "confidence": 0.9635189771652222,
+        "box": [
+          163,
+          2147,
+          740,
+          2214
+        ]
+      },
+      {
+        "text": "SMARTPETRO INC.",
+        "confidence": 0.9623575806617737,
+        "box": [
+          808,
+          2347,
+          1218,
+          2391
+        ]
+      },
+      {
+        "text": "4/F CAEG Building Dela Rosa Street",
+        "confidence": 0.99858158826828,
+        "box": [
+          545,
+          2397,
+          1491,
+          2461
+        ]
+      },
+      {
+        "text": "Brgy. Pio Del Pilar, Makati City",
+        "confidence": 0.9986231327056885,
+        "box": [
+          565,
+          2455,
+          1466,
+          2536
+        ]
+      },
+      {
+        "text": "VAT REG TIN: 007-845-312-00000",
+        "confidence": 0.9916777014732361,
+        "box": [
+          595,
+          2519,
+          1434,
+          2586
+        ]
+      },
+      {
+        "text": "Aoorod. No.: 0480078453122017070768",
+        "confidence": 0.9708725214004517,
+        "box": [
+          524,
+          2579,
+          1498,
+          2652
+        ]
+      },
+      {
+        "text": "Date Issued: 08/10/2017",
+        "confidence": 0.9636572003364563,
+        "box": [
+          703,
+          2644,
+          1346,
+          2710
+        ]
+      },
+      {
+        "text": "P.T.U. No.: FP062021-039-0294318-00000",
+        "confidence": 0.9837401509284973,
+        "box": [
+          487,
+          2696,
+          1539,
+          2766
+        ]
+      },
+      {
+        "text": "Date Issued: 07/02/2021",
+        "confidence": 0.9899963140487671,
+        "box": [
+          704,
+          2767,
+          1344,
+          2832
+        ]
+      },
+      {
+        "text": "WhatsupinPetran?SCANCR for",
+        "confidence": 0.9197178483009338,
+        "box": [
+          910,
+          2906,
+          1531,
+          2969
+        ]
+      },
+      {
+        "text": "feedback, upcates, pramos & more.",
+        "confidence": 0.942225456237793,
+        "box": [
+          919,
+          2970,
+          1569,
+          3031
+        ]
+      },
+      {
+        "text": "Youmay also call us at #738766",
+        "confidence": 0.990123987197876,
+        "box": [
+          903,
+          3029,
+          1503,
+          3093
+        ]
+      },
+      {
+        "text": "or text us at 0919-160-7111",
+        "confidence": 0.9744696617126465,
+        "box": [
+          845,
+          3092,
+          1356,
+          3152
+        ]
+      }
+    ]
+  }
+}
