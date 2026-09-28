@@ -1,0 +1,39 @@
+# Python
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+backend/.env
+mobile/.env
+
+# Local database
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+
+# Gastify receipt/OCR storage
+backend/storage/
+
+# Node / Expo
+node_modules/
+mobile/node_modules/
+.expo/
+mobile/.expo/
+
+# Build/cache
+dist/
+build/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
